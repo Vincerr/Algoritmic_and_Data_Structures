@@ -44,4 +44,4 @@ print(result2)
 print("time2 %f" % (time.clock()-time_flag2))
 
 if result1!=result2:
-    print("Resultados incorrectos")
+    print("Resultados incorrectos xd2.0")
